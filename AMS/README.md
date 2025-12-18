@@ -46,7 +46,7 @@ What is pending by your side?
 
 Steps for Installation
 
-1. Cone this repository // Open the terminal and follow the further steps
+1. Clone this repository // Open the terminal and follow the further steps
 2. cd ams
 3. composer install
 4. npm install && npm run dev
